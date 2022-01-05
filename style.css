@@ -1,0 +1,38 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  margin: 0;
+}
+h1 {
+  font-size: 35px;
+}
+#main-name {
+  color: chocolate;
+}
+#sur-name {
+  color: darkmagenta;
+}
+section {
+  display: flex;
+}
+.half-width {
+  display: 50%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.half-width img {
+  padding-top: 20%;
+  width: 100%;
+  height: 80%;
+}
+.link-button{
+  text-decoration: none;
+  margin-top: 30px;
+  padding: 5px 20px;
+  background-image: linear-gradient(tomato, purple);
+  border-radius: 5px;
+  color: whitesmoke;
+}
+.top-banner{
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+}
