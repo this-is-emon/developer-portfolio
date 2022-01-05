@@ -11,7 +11,7 @@ h1 {
 #sur-name {
   color: darkmagenta;
 }
-section {
+.flexible-container{
   display: flex;
   margin-bottom: 100px;
 }
